@@ -1,8 +1,3 @@
-console.log('client side server is loaded in');
-
-console.log('netaji');
-
-
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 const messageOne = document.querySelector('#message-1');
