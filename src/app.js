@@ -4,7 +4,7 @@ const express = require('express');
 const geocode = require('./utils/geocode');
 const forecast= require('./utils/forecast');
 const { request } = require('express');
-console.log(__dirname);
+//console.log(__dirname);
 // console.log(path.join(__dirname,'../public/index.html'));
 
 const app = express();
